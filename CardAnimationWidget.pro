@@ -14,6 +14,7 @@ SOURCES += \
     cardanimationwidget.cpp
 
 HEADERS += \
+    apimethods.h \
     cardanimationwidget.h
 
 FORMS += \

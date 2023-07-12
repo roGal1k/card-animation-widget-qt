@@ -2,6 +2,7 @@
 #define CARDANIMATIONWIDGET_H
 
 #include <QWidget>
+#include <apimethods.h>
 
 QT_BEGIN_NAMESPACE
 namespace Ui { class CardAnimationWidget; }
